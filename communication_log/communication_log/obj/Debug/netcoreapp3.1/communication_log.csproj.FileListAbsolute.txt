@@ -1,0 +1,13 @@
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.exe
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.deps.json
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.runtimeconfig.json
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.runtimeconfig.dev.json
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.dll
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\bin\Debug\netcoreapp3.1\communication_log.pdb
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.AssemblyInfo.cs
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.dll
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.pdb
+C:\Users\james\OneDrive\Desktop\LaunchCode\Projects\communication_log\communication_log\communication_log\obj\Debug\netcoreapp3.1\communication_log.genruntimeconfig.cache
