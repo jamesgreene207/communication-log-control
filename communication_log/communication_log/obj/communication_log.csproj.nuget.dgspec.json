@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj": {
+    "C:\\Users\\andre\\OneDrive\\desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj",
         "projectName": "communication_log",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\communication_log.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\desktop\\Skillbridge Test\\communication-log-pilot\\communication-log-control\\communication_log\\communication_log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
